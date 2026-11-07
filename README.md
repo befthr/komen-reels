@@ -6,6 +6,11 @@ Made by [beeyour.studio](https://beeyour.studio) — the tooling behind comment-
 
 <p align="center"><img src="docs/preview.png" width="320" alt="komen-reels preview"></p>
 
+## Demo
+
+https://github.com/user-attachments/assets/bf7ba051-9fd5-4643-8e7b-8b3c0a9cc457
+
+
 ## Features
 
 - Instagram-style comment cards that spring in one by one
