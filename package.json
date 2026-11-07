@@ -1,13 +1,11 @@
 {
   "name": "komen-reels",
   "version": "1.0.0",
-  "description": "My Remotion video",
-  "repository": {},
-  "license": "UNLICENSED",
+  "description": "Turn Instagram comments into animated 9:16 Reels videos with Remotion",
+  "license": "MIT",
   "engines": {
     "node": "^20.19.0 || ^22.13.0 || >=24"
   },
-  "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.541",
     "react": "19.3.1",
@@ -26,9 +24,18 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "render": "remotion render KomenReel out/komen-reel.mp4"
   },
   "allowScripts": {
     "esbuild": false
-  }
+  },
+  "keywords": [
+    "remotion",
+    "instagram",
+    "reels",
+    "comments",
+    "video",
+    "indonesia"
+  ]
 }
