@@ -19,7 +19,7 @@ Made by [beeyour.studio](https://beeyour.studio) — the tooling behind comment-
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/komen-reels.git
+git clone https://github.com/befthr/komen-reels.git
 cd komen-reels
 npm install
 npm run dev        # open Remotion Studio to preview
